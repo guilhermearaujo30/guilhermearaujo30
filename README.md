@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Guilherme Araujo
 
  <div>
    <a href="https://github.com/guilhermearaujo30">
